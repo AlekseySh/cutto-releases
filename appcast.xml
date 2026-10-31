@@ -6,6 +6,22 @@
         <description>Signed CUTTO application updates for macOS.</description>
         <language>en</language>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Sat, 31 Oct 2026 16:03:54 +0700</pubDate>
+            <sparkle:version>0.4.0</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Prepare projects in a dedicated workflow with source selection, audio synchronization, framing previews, and verified placement in DaVinci Resolve.
+- Edit prepared camera layouts that share a microphone.
+- Support compatible 60 FPS sources and timelines.
+- Show disabled audio waveforms in red with clearer cut markers.
+
+Save your project and close DaVinci Resolve before updating, then reopen it.
+]]></description>
+            <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.4.0/CUTTO-0.4.0-macOS-arm64.zip" length="118540771" type="application/octet-stream" sparkle:edSignature="9lVVISqpAkM/NeuYh079BX100lXtiJyIclHZvpecb/+Mbzz11aqK1LM0TATRteOildQpO1b/zW0JAU6z9h2WDg=="/>
+        </item>
+        <item>
             <title>0.3.5</title>
             <pubDate>Fri, 30 Oct 2026 04:00:42 +0700</pubDate>
             <sparkle:version>0.3.5</sparkle:version>
