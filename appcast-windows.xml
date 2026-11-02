@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CUTTO Windows x64 updates</title>
+    <link>https://raw.githubusercontent.com/AlekseySh/cutto-releases/main/appcast-windows.xml</link>
+    <language>en</language>
+    <item>
+      <title>CUTTO 0.5.0 for Windows</title>
+      <pubDate>Mon, 02 Nov 2026 08:04:54 +0000</pubDate>
+      <sparkle:version>0.5.0</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+      <description>First public CUTTO release for Windows x64.
+
+- Prepare talking-head projects and edit them through CUTTO MCP in DaVinci Resolve.
+- Includes the desktop interface, email-code sign-in, local models, FFmpeg, and a private Bridge runtime.
+- User-initiated signed updates with a per-user installer.
+- Includes the CUTTO end-user licence agreement.
+
+For the first installation, extract the complete ZIP to %LOCALAPPDATA%\Programs\CUTTO and launch CUTTO.exe. Install Bridge, then save and reopen DaVinci Resolve. Do not run the update installer to bootstrap an older unowned installation.
+
+The app and installer do not have an Authenticode certificate; Windows may show a security warning. Do not disable Windows security. Validated on the Acer editor machine with DaVinci Resolve Free 21.0.2.4. Windows project-data cleanup and broader compatibility validation remain unavailable.
+</description>
+      <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/windows-v0.5.0/CUTTO-0.5.0-windows-x64-setup.exe" length="135395765" type="application/octet-stream" sparkle:os="windows-x64" sparkle:version="0.5.0" sparkle:shortVersionString="0.5.0" sparkle:edSignature="La/Tae+aUuhwWuITqzZoIuFyXcLfajV7A+RNHTeEXh30jc/zuq2LdVHHGeMBfRBwFMdb8whQAeJVH0TKgDWaBw==" />
+    </item>
+  </channel>
+</rss>
