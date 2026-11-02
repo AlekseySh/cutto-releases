@@ -6,6 +6,23 @@
         <description>Signed CUTTO application updates for macOS.</description>
         <language>en</language>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Mon, 02 Nov 2026 14:52:10 +0700</pubDate>
+            <sparkle:version>0.5.0</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Redesigned desktop interface with clearer project details and settings.
+- Automatic MCP startup, recovery, and timeline-aware chat routing.
+- Email-code sign-in and background account recovery.
+- Enrichment progress, camera mirroring, and clearer transcript warnings.
+- Includes the CUTTO end-user licence agreement.
+
+Save your project and close DaVinci Resolve before updating, then reopen it.
+]]></description>
+            <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.5.0/CUTTO-0.5.0-macOS-arm64.zip" length="119250066" type="application/octet-stream" sparkle:edSignature="VXxF9y0fICzMDXwnXQ/vOxm3WsMe0p5c3s18f+7jb64v6iD4YAXakuu7dWwxYGO7tMgOBPKCYaVG1S6hwCaYBQ=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Sat, 31 Oct 2026 16:03:54 +0700</pubDate>
             <sparkle:version>0.4.0</sparkle:version>
