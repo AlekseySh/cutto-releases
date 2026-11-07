@@ -6,6 +6,21 @@
         <description>Signed CUTTO application updates for macOS.</description>
         <language>en</language>
         <item>
+            <title>0.5.2</title>
+            <pubDate>Sun, 08 Nov 2026 01:43:35 +0700</pubDate>
+            <sparkle:version>0.5.2</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Clearer project preparation details and a more compact timeline view.
+- Separate editing instructions for solo videos, multi-person conversations, and teasers.
+- Improved transcript timing and desktop navigation.
+
+Save your project and close DaVinci Resolve before updating, then reopen it.
+]]></description>
+            <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.5.2/CUTTO-0.5.2-macOS-arm64.zip" length="120840258" type="application/octet-stream" sparkle:edSignature="Avh6rh+ZDWzBQFDmYobmwkgmtaQ6bHlPFPL/3z76vtA61P6DxRMdNwqgjGv2Ee9T5aErOHSReBp5p0jLGS29BQ=="/>
+        </item>
+        <item>
             <title>0.5.1</title>
             <pubDate>Fri, 06 Nov 2026 05:48:27 +0700</pubDate>
             <sparkle:version>0.5.1</sparkle:version>
