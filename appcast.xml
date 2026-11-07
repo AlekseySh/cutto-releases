@@ -6,6 +6,19 @@
         <description>Signed CUTTO application updates for macOS.</description>
         <language>en</language>
         <item>
+            <title>0.5.3</title>
+            <pubDate>Sun, 08 Nov 2026 03:10:59 +0700</pubDate>
+            <sparkle:version>0.5.3</sparkle:version>
+            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Review the open timeline, saved preparation, and visible editing evidence before binding an editing chat.
+
+Restore prepared sources on a new or empty timeline while preserving preparation for other timelines.
+]]></description>
+            <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.5.3/CUTTO-0.5.3-macOS-arm64.zip" length="120854618" type="application/octet-stream" sparkle:edSignature="HOYfHma9UoG7uQ+S1heSveH8V2uJV16Ht4HgqJXW+yYlM2rhHfgpFmv5YMiIOKS9OXavF2xGwz9xHbgRimQBBg=="/>
+        </item>
+                <item>
             <title>0.5.2</title>
             <pubDate>Sun, 08 Nov 2026 01:43:35 +0700</pubDate>
             <sparkle:version>0.5.2</sparkle:version>
