@@ -6,6 +6,22 @@
         <description>Signed CUTTO application updates for macOS.</description>
         <language>en</language>
         <item>
+            <title>0.5.4</title>
+            <pubDate>Wed, 11 Nov 2026 22:48:04 +0700</pubDate>
+            <sparkle:version>0.5.4</sparkle:version>
+            <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Keep Claude Desktop Code sessions bound to their selected timeline across reconnects and CUTTO restarts.
+- Get more reliable project status and preparation before binding a timeline.
+
+Open CUTTO after updating, then start a new Claude Desktop Code session.
+
+Save your project and close DaVinci Resolve before updating, then reopen it.
+]]></description>
+            <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.5.4/CUTTO-0.5.4-macOS-arm64.zip" length="120853959" type="application/octet-stream" sparkle:edSignature="JqnWdOg9y08hg/apBs4NcrupO5GCpYPExS5cLCSVlO0MquhEdRQNQe4/1I63dKZDJ1ImaoCQrueZh5jhIdRCDQ=="/>
+        </item>
+        <item>
             <title>0.5.3</title>
             <pubDate>Sun, 08 Nov 2026 03:10:59 +0700</pubDate>
             <sparkle:version>0.5.3</sparkle:version>
