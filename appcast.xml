@@ -6,6 +6,22 @@
         <description>Signed CUTTO application updates for macOS.</description>
         <language>en</language>
         <item>
+            <title>0.5.5</title>
+            <pubDate>Thu, 12 Nov 2026 05:03:39 +0700</pubDate>
+            <sparkle:version>0.5.5</sparkle:version>
+            <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Track progress during long video analysis and recover results from long editing operations.
+- Continue long editing sessions with shared timeline notes.
+- Investigate microphone bleed while enrichment continues.
+- Place sources with clear timing warnings when exact source-frame timing is unverified.
+
+Save your project and close DaVinci Resolve before updating, then reopen it.
+]]></description>
+            <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.5.5/CUTTO-0.5.5-macOS-arm64.zip" length="120880935" type="application/octet-stream" sparkle:edSignature="CjHXcwl+gCsnCq50IL8UMwZzRHesy0fr8AT2YcSXUZMyiI06Sc3ZWd3a64cyBq3KMA5yGPb7L0AtHSGZRMEVCA=="/>
+        </item>
+        <item>
             <title>0.5.4</title>
             <pubDate>Wed, 11 Nov 2026 22:48:04 +0700</pubDate>
             <sparkle:version>0.5.4</sparkle:version>
