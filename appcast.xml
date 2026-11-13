@@ -6,6 +6,22 @@
         <description>Signed CUTTO application updates for macOS.</description>
         <language>en</language>
         <item>
+            <title>0.5.6</title>
+            <pubDate>Sat, 14 Nov 2026 04:13:12 +0700</pubDate>
+            <sparkle:version>0.5.6</sparkle:version>
+            <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Support standalone WAV recordings and auxiliary audio.
+- Assign speakers and camera identities to specific parts of a recording.
+- Apply camera edits faster with fewer timeline changes.
+- Improve transcript alignment and pinpoint mismatches after editing.
+
+Save your project and close DaVinci Resolve before updating, then reopen it.
+]]></description>
+            <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.5.6/CUTTO-0.5.6-macOS-arm64.zip" length="120952274" type="application/octet-stream" sparkle:edSignature="ZA7wasXNwgfvnFpHlH9Oxdriyl7wFd7DoSCwCMYdbVF8/6qSRJI0A7NH3EaZyykW5wNtCc3UozK7at1e9m+pAw=="/>
+        </item>
+        <item>
             <title>0.5.5</title>
             <pubDate>Thu, 12 Nov 2026 05:03:39 +0700</pubDate>
             <sparkle:version>0.5.5</sparkle:version>
