@@ -6,6 +6,23 @@
         <description>Signed CUTTO application updates for macOS.</description>
         <language>en</language>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Wed, 18 Nov 2026 02:35:50 +0700</pubDate>
+            <sparkle:version>0.6.0</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Split long timelines into verified working parts, then combine edited parts into a checked master.
+- Coordinate agents across timelines and inspect several timeline ranges in one call.
+- Prepare multichannel recordings as separate WAV sources.
+- View gift transcription status and estimated remaining hours in Account settings.
+- Improve source references, camera assignments and edit verification.
+
+Save your project and close DaVinci Resolve before updating, then reopen it.
+]]></description>
+            <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.6.0/DOWNLOAD_CUTTO-0.6.0-macOS-arm64.zip" length="121073152" type="application/octet-stream" sparkle:edSignature="4tIcHUSBaZ8QgTYhN4ToFZfnIiO8gGIJWQ+Q2g13C8mwbje0FVnDyc0A5X8KbKZuOPGD2Srfgp/3/uGHPj02Bw=="/>
+        </item>
+        <item>
             <title>0.5.6</title>
             <pubDate>Sat, 14 Nov 2026 04:13:12 +0700</pubDate>
             <sparkle:version>0.5.6</sparkle:version>
@@ -66,7 +83,7 @@ Restore prepared sources on a new or empty timeline while preserving preparation
 ]]></description>
             <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.5.3/CUTTO-0.5.3-macOS-arm64.zip" length="120854618" type="application/octet-stream" sparkle:edSignature="HOYfHma9UoG7uQ+S1heSveH8V2uJV16Ht4HgqJXW+yYlM2rhHfgpFmv5YMiIOKS9OXavF2xGwz9xHbgRimQBBg=="/>
         </item>
-                <item>
+        <item>
             <title>0.5.2</title>
             <pubDate>Sun, 08 Nov 2026 01:43:35 +0700</pubDate>
             <sparkle:version>0.5.2</sparkle:version>
