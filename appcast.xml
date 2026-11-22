@@ -6,6 +6,22 @@
         <description>Signed CUTTO application updates for macOS.</description>
         <language>en</language>
         <item>
+            <title>0.6.1</title>
+            <pubDate>Mon, 23 Nov 2026 03:37:13 +0700</pubDate>
+            <sparkle:version>0.6.1</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Set different framing for different sections of a camera recording, then preview and apply it during editing.
+- Prepare audio and video concurrently to reduce setup time.
+- Edit manually reordered timeline sections and preserve supported graphics during ripple edits.
+- Switch between gifted and personal ElevenLabs keys and see the active key and gifted balance in Settings.
+
+Save your project and close DaVinci Resolve before updating, then reopen it to load the updated Bridge.
+]]></description>
+            <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.6.1/DOWNLOAD_CUTTO-0.6.1-macOS-arm64.zip" length="121078048" type="application/octet-stream" sparkle:edSignature="jxZGRCWMAlA4XjCuEaaf4PbQI/TPck7SpsxEemiNmMnZ4W6pKySCE+RMjo0gQ8mlsXil/YgbzOojFn24UYG0AQ=="/>
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Wed, 18 Nov 2026 02:35:50 +0700</pubDate>
             <sparkle:version>0.6.0</sparkle:version>
