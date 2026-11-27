@@ -6,6 +6,20 @@
         <description>Signed CUTTO application updates for macOS.</description>
         <language>en</language>
         <item>
+            <title>0.6.4</title>
+            <pubDate>Sat, 28 Nov 2026 00:57:08 +0700</pubDate>
+            <sparkle:version>0.6.4</sparkle:version>
+            <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Keep CUTTO running when an editor's client configuration is invalid, and refresh desktop status without rereading the full timeline.
+- Recover source preparation and microphone-bleed annotations, and keep usable timeline reads and previews available after local failures.
+- Revise rejected camera layouts and content cuts, and flag speakers who switch sides between split-screen shots.
+- Improve StreamYard audio timing and verify clip geometry and timeline settings when assembling a Resolve master.
+]]></description>
+            <enclosure url="https://github.com/AlekseySh/cutto-releases/releases/download/v0.6.4/DOWNLOAD_CUTTO-0.6.4-macOS-arm64.zip" length="121217403" type="application/octet-stream" sparkle:edSignature="FvjP2gpVUcm8Bugz9Ys49kFjDUL2/p+7397vMI0a9IHi0qLi43oL8htEqqI/N30DBn7tzcKpdwcgH7rPC0lRDw=="/>
+        </item>
+        <item>
             <title>0.6.3</title>
             <pubDate>Wed, 25 Nov 2026 21:39:55 +0700</pubDate>
             <sparkle:version>0.6.3</sparkle:version>
